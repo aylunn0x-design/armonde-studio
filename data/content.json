@@ -21,12 +21,22 @@
     {
       "title": "Private Residence",
       "category": "Residential",
-      "description": "Luxury private home concept with calm modern detailing."
+      "description": "Luxury private home concept with calm modern detailing.",
+      "gallery": [],
+      "titleMn": "Private Residence",
+      "titleEn": "Private Residence",
+      "descriptionMn": "Luxury private home concept with calm modern detailing.",
+      "descriptionEn": "Luxury private home concept with calm modern detailing."
     },
     {
       "title": "Boutique Interior",
       "category": "Interior",
-      "description": "Soft luxury interior concept for a boutique commercial space."
+      "description": "Soft luxury interior concept for a boutique commercial space.",
+      "gallery": [],
+      "titleMn": "Boutique Interior",
+      "titleEn": "Boutique Interior",
+      "descriptionMn": "Soft luxury interior concept for a boutique commercial space.",
+      "descriptionEn": "Soft luxury interior concept for a boutique commercial space."
     }
   ],
   "contactEmail": "hello@armonde.studio",

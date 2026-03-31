@@ -1,0 +1,34 @@
+{
+  "siteName": "Armonde",
+  "heroTitle": "Designing timeless spaces with quiet luxury.",
+  "heroText": "Luxury architecture, interior design, brochures, and premium presentation materials for refined brands and clients.",
+  "about": "Armonde is a luxury architecture and interior design business focused on elegant spaces, refined detail, and intentional living.",
+  "services": [
+    {
+      "title": "Architecture Design",
+      "text": "Residential and commercial architectural concepts and planning."
+    },
+    {
+      "title": "Interior Design",
+      "text": "Elegant interior concepts, space planning, and styling."
+    },
+    {
+      "title": "Brochure & Presentation",
+      "text": "Studio brochures, branded materials, and visual presentations."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Private Residence",
+      "category": "Residential",
+      "description": "Luxury private home concept with calm modern detailing."
+    },
+    {
+      "title": "Boutique Interior",
+      "category": "Interior",
+      "description": "Soft luxury interior concept for a boutique commercial space."
+    }
+  ],
+  "contactEmail": "hello@armonde.studio",
+  "instagram": "@armonde.studio"
+}

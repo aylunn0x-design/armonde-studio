@@ -26,7 +26,10 @@
       "titleMn": "Private Residence",
       "titleEn": "Private Residence",
       "descriptionMn": "Luxury private home concept with calm modern detailing.",
-      "descriptionEn": "Luxury private home concept with calm modern detailing."
+      "descriptionEn": "Luxury private home concept with calm modern detailing.",
+      "client": "Private Client",
+      "area": "420 m²",
+      "concept": "Luxury private home concept with calm modern detailing."
     },
     {
       "title": "Boutique Interior",
@@ -36,7 +39,10 @@
       "titleMn": "Boutique Interior",
       "titleEn": "Boutique Interior",
       "descriptionMn": "Soft luxury interior concept for a boutique commercial space.",
-      "descriptionEn": "Soft luxury interior concept for a boutique commercial space."
+      "descriptionEn": "Soft luxury interior concept for a boutique commercial space.",
+      "client": "Private Client",
+      "area": "420 m²",
+      "concept": "Soft luxury interior concept for a boutique commercial space."
     }
   ],
   "contactEmail": "hello@armonde.studio",
